@@ -49,6 +49,9 @@ Here are the technologies and tools I work with:
 
 ## Let's Connect!
 
-Feel free to reach out to me
+Feel free to reach out to me: 
 
-Thanks for visiting my profile! Have a great day! 😄
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/spikeybaire)
+[![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/spikeybaire)
+
+Made with ♥️ by Robaire 
