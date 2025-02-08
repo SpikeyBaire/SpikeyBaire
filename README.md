@@ -1,4 +1,4 @@
-Hi there! I am ,Akinyele Mayowa Temitope, Robaire! 👋
+Hi there! I am, Akinyele Mayowa Temitope, Robaire! 👋
 
 Welcome to my GitHub profile! I'm a software developer passionate about solving problems. 
 
