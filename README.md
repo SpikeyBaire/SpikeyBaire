@@ -52,9 +52,9 @@ Here are some of the projects I'm proud of:
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=spikeycode&show_icons=true&theme=radical)](https://github.com/spikeycode)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spikeycode&layout=compact&theme=radical)](https://github.com/spikeycode)
 
 ## Let's Connect!
 
