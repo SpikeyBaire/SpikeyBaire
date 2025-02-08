@@ -47,6 +47,4 @@ Here are the technologies and tools I work with:
 
 Feel free to reach out to me
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/your-custom-image.svg" alt="Custom Graphic" width="100%">
-
 Thanks for visiting my profile! Have a great day! 😄
