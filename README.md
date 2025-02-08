@@ -42,6 +42,10 @@ Here are the technologies and tools I work with:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### My Contribution Calendar
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=spikeybaire&theme=radical)
+
 
 ## Let's Connect!
 
