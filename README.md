@@ -42,19 +42,6 @@ Here are the technologies and tools I work with:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## My Projects
-
-Here are some of the projects I'm proud of:
-
-- **[Project Name](link-to-project)**: A brief description of the project.
-- **[Project Name](link-to-project)**: A brief description of the project.
-- **[Project Name](link-to-project)**: A brief description of the project.
-
-## GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=spikeycode&show_icons=true&theme=radical)](https://github.com/spikeycode)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spikeycode&layout=compact&theme=radical)](https://github.com/spikeycode)
 
 ## Let's Connect!
 
