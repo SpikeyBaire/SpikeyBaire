@@ -51,6 +51,16 @@ Here are the technologies and tools I work with:
 
 Feel free to reach out to me: 
 
+<form action="https://formspree.io/f/yourformspreeid" method="POST">
+  <label>Name:</label><br>
+  <input type="text" name="name"><br>
+  <label>Email:</label><br>
+  <input type="email" name="email"><br>
+  <label>Message:</label><br>
+  <textarea name="message"></textarea><br>
+  <button type="submit">Send</button>
+</form>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/spikeybaire)
 [![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/spikeybaire)
 
