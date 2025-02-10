@@ -51,6 +51,8 @@ Here are the technologies and tools I work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpikeyBaire&layout=compact&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
 
 ## Let's Connect! 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/spikeybaire)
