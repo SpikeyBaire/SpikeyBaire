@@ -53,7 +53,7 @@ Here are the technologies and tools I work with:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpikeyBaire&show_icons=true&theme=radical)
 
-![Custom Badge](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SpikeyBaire&theme=onedark&no-frame=true&row=2&column=4)
 
 ## Let's Connect! 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/spikeybaire)
