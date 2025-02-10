@@ -49,7 +49,6 @@ Here are the technologies and tools I work with:
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=spikeybaire&theme=radical)
 
-![Contribution Snake](https://raw.githubusercontent.com/SpikeyBaire/SpikeyBaire/output/github-contribution-grid-snake.svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpikeyBaire&layout=compact&theme=radical)
 
