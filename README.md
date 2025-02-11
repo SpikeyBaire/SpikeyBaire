@@ -1,10 +1,10 @@
 Hi there! I am, Akinyele Mayowa Temitope, Robaire! 👋
 
-Welcome to my GitHub profile! I'm a software developer passionate about solving problems. 
+I'm a software developer passionate about solving problems. 
 
 ## About Me
 
-- 🔭 I’m currently working on: #
+- 🔭 I’m currently working on: A personal project 
 - 🌱 I’m currently learning: Solidity
 - 👯 I’m looking to collaborate on: $
 - 📫 How to reach me: spikecode42@gmail.com
