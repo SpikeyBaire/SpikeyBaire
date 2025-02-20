@@ -1,5 +1,3 @@
-<!-- 🔥 WELCOME TO THE ULTIMATE README 🔥 -->
-
 # 🚀 **Data Science & Machine Learning Portfolio**  
 
 ![Header](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
@@ -34,16 +32,6 @@
 
 ---
 
-## 🏆 **Achievements**  
-
-✔️ **Kaggle Expert** 🏅  
-✔️ **Top 1% in AI Competitions** 💡  
-✔️ **AI Models with 99%+ Accuracy** 🎯  
-✔️ **Handling Terabytes of Data Like a Boss** 🔥  
-✔️ **Built Open-Source AI Libraries** 🚀  
-
----
-
 ## 🛠️ **Tech Stack**  
 
 💻 **Languages**  
@@ -60,11 +48,6 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-
-🚀 **Development Tools**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
 ---
 
@@ -93,46 +76,6 @@
 🔹 **Tech Stack:** TensorFlow, Keras, OpenCV  
 🔹 **Accuracy:** 97% on CIFAR-10 dataset  
 🔗 **[View Project](#)**  
-
----
-
-## 💡 **Open Source Contributions**  
-
-✔️ **Contributed to ML Libraries**  
-✔️ **Built Open-Source AI Projects**  
-✔️ **Helping Developers Learn ML**  
-
-🔗 **[Check My Contributions](#)**  
-
----
-
-## 📊 **Data Visualizations & Dashboards**  
-
-📊 **Live Interactive Data Dashboards**  
-📈 **Real-Time Data Visualizations**  
-🖥️ **AI-Powered Analytics Reports**  
-
-🔗 **[Explore Dashboards](#)**  
-
----
-
-## 📝 **Blog & Articles**  
-
-I write about **Data Science, Machine Learning, and AI.**  
-🔗 **[Read My Blog](#)**  
-
----
-
-## 🎮 **Fun & Challenges**  
-
-🔥 **ML Competitions That Keep Me Up at Night:**  
-- 🚀 Kaggle Competitions  
-- 🏆 Hackathons  
-- 🤖 AI/ML Coding Challenges  
-
-**Memes Because AI Devs Need Fun Too:**  
-
-![Meme](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
 
 ---
 
