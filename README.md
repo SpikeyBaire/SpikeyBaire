@@ -1,5 +1,4 @@
-# 🚀 **The Ultimate AI-Powered Data Science Portfolio**  
-
+ 
 ![AI Banner](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
 
 <div align="center">
